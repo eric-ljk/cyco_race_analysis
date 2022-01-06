@@ -1,4 +1,4 @@
-# cyco_race_analysis
+Cycosports Race Analysis
 
 This project analyses a publicly available race timings dataset from https://cycosports.com/. 
 
