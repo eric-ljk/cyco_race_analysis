@@ -6,4 +6,4 @@ In the first notebook, an exercise in data wrangling is done when we try to get 
 
 In the second notebook, visualisations and some exploratory data analyses are generated to derive some insights. 
 
-The CSV files of the initial and cleaned data are included in this repo.
+Presentation slides are included as a PDF file, for a detailed overview of the project. 
